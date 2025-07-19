@@ -72,5 +72,4 @@ zypher/
 
 ## OUTPUT
 
-Landing Page 
-Chat Window 
+Landing Page <img width="1918" height="873" alt="Image" src="https://github.com/user-attachments/assets/e234f54c-219e-442d-b8e4-7ef9d92fb0a3" />
